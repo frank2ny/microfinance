@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Microfinance bank
     subtitle: >-
-      we bring best quality assuarance services to your foot step with
-      zemaximum 
+      we bring best quality assuarance services to your foot step with zemaximum
+      efficient 
     actions:
       - label: Learn More
         url: /features
