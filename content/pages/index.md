@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Microfinance bank
-    subtitle: 'we bring best quality '
+    subtitle: 'we bring best quality assuarance '
     actions:
       - label: Learn More
         url: /features
